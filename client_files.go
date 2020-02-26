@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"path"
 
-	"github.com/koofr/go-httpclient"
+	"github.com/artpar/go-httpclient"
 )
 
 var ErrCannotOverwrite = fmt.Errorf("Can not overwrite (filter constraint fails)")

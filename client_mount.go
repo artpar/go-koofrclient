@@ -1,7 +1,7 @@
 package koofrclient
 
 import (
-	"github.com/koofr/go-httpclient"
+	"github.com/artpar/go-httpclient"
 	"net/http"
 )
 
